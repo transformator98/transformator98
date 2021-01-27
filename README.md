@@ -1,4 +1,4 @@
-# PolovynkaIvan
+# Hi there, I'm Ivan 👋
 
 ### My stack and tools:
 
