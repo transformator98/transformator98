@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan 👋
+# Hi, I'm Ivan 👋
 
 ### My stack and tools:
 
