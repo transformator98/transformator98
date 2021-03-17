@@ -1,6 +1,10 @@
 # Hi, I'm Ivan 👋
 
 ## My stack and tools:
+--
+--
+
+
 
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=transformator98&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/transformator98/github-readme-stats)
